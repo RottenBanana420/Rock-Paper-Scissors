@@ -73,5 +73,4 @@ Do you want to continue?
 Thank You for Playing!
 ```
 
-## Disclaimer
-This code is a basic implementation of the Rock, Paper, Scissors game for educational purposes. It may not cover all edge cases, and improvements can be made for a more polished user experience.
+## THANK YOU FOR READING
